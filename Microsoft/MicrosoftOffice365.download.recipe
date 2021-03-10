@@ -12,7 +12,7 @@ Override the PRODUCTID key to:
 - 2009112 for Office365 Business Pro (includes Teams)
 </string>
 	<key>Identifier</key>
-	<string>com.github.lifesci-IT.autopkg-recipes.Microsoft.download.MicrosoftOffice365</string>
+	<string>com.github.lifesci-IT.autopkgrecipes.download.MicrosoftOffice365</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOADURL</key>
